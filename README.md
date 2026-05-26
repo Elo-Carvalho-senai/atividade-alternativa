@@ -52,6 +52,4 @@ O projeto foi desenvolvido com foco em:
 ```bash
 📁 projeto-pokemon
  ┣ 📄 index.html
- ┣ 📄 style.css
- ┣ 📄 script.js
  ┗ 📄 README.md
